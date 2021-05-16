@@ -1,0 +1,2 @@
+# financial_analysis_for_public_companies
+基于Python从网络收集上市公司信息进行财务分析的系统
